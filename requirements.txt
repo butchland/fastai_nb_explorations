@@ -1,9 +1,5 @@
 fastai2>=0.0.11
-graphviz
-ipywidgets
-matplotlib
-nbdev>=0.2.12
-pandas
-scikit_learn
-azure-cognitiveservices-search-imagesearch
-sentencepiece
+voila
+pillow<7
+packaging
+ipywidgets==7.5.1
