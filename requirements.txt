@@ -1,4 +1,5 @@
-fastai2>=0.0.11
+fastcore
+fastai
 voila
 pillow>=7.1.0
 packaging
